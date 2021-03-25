@@ -5,12 +5,11 @@
 <!---- 💞️ I’m looking to collaborate on ... --->
 
 <h2> 📫 How to reach me ... </h2>
-<a href="https://discordapp.com/users/231149928393474049" alt="discord link" style="display: flex;
-    font-size: 1.3em;
-    align-items: center;
-    color: black;"> 
+<div style="display: flex; font-size: 1.3em; align-items: center; color: black;">
+<a href="https://discordapp.com/users/231149928393474049" alt="discord link"> 
 <img src="img/discord-logo.png" height="20" alt=discord id: heggland#9582 /> heggland#9582
 </a>
+</div>
 
 <!---
 heggland/heggland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
