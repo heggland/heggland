@@ -7,7 +7,7 @@
 <h2> 📫 How to reach me ... </h2>
 <div>
 <a href="https://discordapp.com/users/231149928393474049" alt="discord link"> 
-<img src="img/discord-logo.png" height="20" alt=discord id: heggland#9582 /> heggland#9582
+- <img src="img/discord-logo.png" height="20" alt=discord id: heggland#9582 /> heggland#9582
 </a>
 </div>
 
