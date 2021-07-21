@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in web development and program automation.
 - 🌱 I’m currently exploring javascript and python. 
--     Current project: wiki/blog
+-     Current project: learning C#
 
 <!---- 💞️ I’m looking to collaborate on ... --->
 
