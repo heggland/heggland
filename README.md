@@ -1,9 +1,13 @@
 <h1> 👋 Hello, I’m @heggland </h1>
 
-- 👀 I’m interested in web development and program automation.
-- 🌱 I’m currently exploring C#
 
-<!---- 💞️ I’m looking to collaborate on ... --->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heggland&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<!---- 
+- 👀 I’m interested in web development and program automation.
+- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working 
+ --->
 
 <h2> 📫 How to reach me ... </h2>
 <a href="https://heggland.tech" alt="homepage link"> www.heggland.tech</a>
