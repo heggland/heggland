@@ -3,7 +3,7 @@
 
 <h3>Statistical Data :-</h3>
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heggland&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heggland)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Heggland's GitHub stats](https://github-readme-stats.vercel.app/api?username=heggland)](https://github.com/anuraghazra/github-readme-stats)
 
