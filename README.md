@@ -1,7 +1,7 @@
 <h1> 👋 Hello, I’m @heggland </h1>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heggland&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Heggland's GitHub stats](https://github-readme-stats.vercel.app/api?username=heggland)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---- 
 - 👀 I’m interested in web development and program automation.
