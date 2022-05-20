@@ -1,12 +1,11 @@
 <h1> 👋 Hello, I’m @heggland </h1>
 
 - 👀 I’m interested in web development and program automation.
-- 🌱 I’m currently exploring C#
+- 🌱 I’m currently exploring a little bit of everything. C# / JAVA / TS / SBC / IoT
 
 <!---- 💞️ I’m looking to collaborate on ... --->
 
 <h2> 📫 How to reach me ... </h2>
-<a href="https://heggland.tech" alt="homepage link"> www.heggland.tech</a>
 <div><a href="https://discordapp.com/users/231149928393474049" alt="discord link"> <img src="img/discord-logo.png" height="20" alt=discord id: heggland#9582 /> heggland#9582</a>
 </div>
 
