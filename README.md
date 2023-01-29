@@ -3,10 +3,14 @@
 - 👀 I’m interested in web development and program automation.
 - 🌱 I’m currently exploring a little bit of everything. C# / JAVA / TS / SBC / IoT
 
+
+
 <!---- 💞️ I’m looking to collaborate on ... --->
 
 <h2> 📫 How to reach me ... </h2>
-<div><a href="https://discordapp.com/users/231149928393474049" alt="discord link"> <img src="img/discord-logo.png" height="20" alt=discord id: heggland#9582 /> heggland#9582</a>
+<div style="display: flex; flex-direction: column;">
+<li><a href="https://heggland.tech" alt="webpage my homepage link">🌐 heggland.tech</a></li>
+<li><a href="https://no.linkedin.com/in/kjetil-heggland-2485741a0" alt="linkedin my profile link"> <img src="img/linkedin.png" height="20" alt="linkedin logo"/> </a></li>
 </div>
 
 
