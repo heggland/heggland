@@ -2,7 +2,7 @@
 <div style="display: flex; flex-direction: column; gap: 10px">
 <li>👀 I’m interested in web development and program automation.</li>
 <li>🌱 I’m currently exploring a bit of everything from JS / TS C# / C++ / JAVA / SBC / IoT / Docker</li>
-<li>💞️ I am the developer of <a href="https://xlotr.com" alt="xlotr webpage link" target="_blank">xlotr.com</a>: which is an image sharing platform; with a lord of the rings  theme.</li>
+<li>💞️ <a href="https://portfolio.heggland.tech" alt="blog" target="_blank">portfolio.heggland.tech</a>,   <a href="https://xlotr.com" alt="xlotr webpage link" target="_blank">xlotr.com</a></li>
 
 </div>
 
