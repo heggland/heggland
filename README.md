@@ -3,7 +3,7 @@
 <li>👀 I’m interested in programming, automation and infrastructure</li>
 <li>🌱 I’m currently exploring aws </li>
 <li>💞️ Python, JS/TS, C#, Java </li>
-<li>🤸‍♂️ Hiking, roadcycling, mountain biking, unicycling, snowboarding, gaming, books </li>
+<li>🤸‍♂️ Hiking, road cycling, mountain biking, unicycling, snowboarding, gaming, books </li>
 
 </div>
 
