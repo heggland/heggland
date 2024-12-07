@@ -1,8 +1,9 @@
 <h1> 👋 Hello, I’m @heggland </h1>
 <div style="display: flex; flex-direction: column; gap: 10px">
-<li>👀 I’m interested in programming, automation, design and biking</li>
-<li>🌱 I’m currently exploring a bit of everything from JS / TS C# / C++ / JAVA / SBC / IoT / Docker</li>
-<li>💞️ <a href="https://portfolio.heggland.tech" alt="blog" target="_blank">portfolio.heggland.tech</a>,   <a href="https://xlotr.com" alt="xlotr webpage link" target="_blank">xlotr.com</a></li>
+<li>👀 I’m interested in programming, automation and infrastructure</li>
+<li>🌱 I’m currently exploring aws </li>
+<li>💞️ Python, JS/TS, C#, Java </li>
+<li>🤸‍♂️ Hiking, roadcycling, mountain biking, unicycling, snowboarding, gaming, books </li>
 
 </div>
 
