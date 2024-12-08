@@ -1,7 +1,7 @@
 <h1> 👋 Hello, I’m @heggland </h1>
 <div style="display: flex; flex-direction: column; gap: 10px">
 <li>👀 I’m interested in programming, automation and infrastructure</li>
-<li>🌱 I’m currently exploring aws </li>
+<li>🌱 I’m currently exploring aws developer associate</li>
 <li>💞️ Python, JS/TS, C#, Java </li>
 <li>🤸‍♂️ Hiking, road cycling, mountain biking, unicycling, snowboarding, gaming, books </li>
 
