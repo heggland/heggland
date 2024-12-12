@@ -4,6 +4,7 @@
 <li>🌱 I’m currently exploring aws developer associate</li>
 <li>💞️ Python, JS/TS, C#, Java </li>
 <li>🤸‍♂️ Hiking, road cycling, mountain biking, unicycling, snowboarding, gaming, books </li>
+<li>🚲 Favourite way to commute: Unicycling – low maintenance and it's quite fast if one use a 36" wheel.</li>
 
 </div>
 
