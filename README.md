@@ -8,6 +8,15 @@
 
 </div>
 
+<h2> 📈 Recent highlighted projects </h2>
+<div style="display: flex; flex-direction: column; gap: 10px">
+<li><a href="https://github.com/heggland/mccontrol-" target="_blank" alt="github repo mccontrol-">Minecraft permission plugin written in JAVA</a></li>
+<li><a href="https://onepole.no" target="_blank" alt="onepole.no">Website for onepole, nextjs, strapi cms, postgres, threejs, pdf and email integrations</a></li>
+<li><a href="https://qlight.no" target="_blank" alt="qlight.no">Maintained qlight webpage, umbraco cms and custom vite integrations</a></li>
+<li><a href="https://github.com/heggland/C-Sharp-basics" target="_blank" alt="github repo C-Sharp-basics">A repo containing C# basics practices</a></li>
+</div>
+
+
 <!---- 💞️ I’m looking to collaborate on ... --->
 
 <h2> 📫 How to reach me ... </h2>
